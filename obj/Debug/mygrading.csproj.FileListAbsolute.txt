@@ -1,0 +1,10 @@
+C:\Users\Codetelligence\source\repos\mygrading\mygrading\bin\Debug\mygrading.exe.config
+C:\Users\Codetelligence\source\repos\mygrading\mygrading\bin\Debug\mygrading.exe
+C:\Users\Codetelligence\source\repos\mygrading\mygrading\bin\Debug\mygrading.pdb
+C:\Users\Codetelligence\source\repos\mygrading\mygrading\obj\Debug\mygrading.csproj.AssemblyReference.cache
+C:\Users\Codetelligence\source\repos\mygrading\mygrading\obj\Debug\mygrading.Form1.resources
+C:\Users\Codetelligence\source\repos\mygrading\mygrading\obj\Debug\mygrading.Properties.Resources.resources
+C:\Users\Codetelligence\source\repos\mygrading\mygrading\obj\Debug\mygrading.csproj.GenerateResource.cache
+C:\Users\Codetelligence\source\repos\mygrading\mygrading\obj\Debug\mygrading.csproj.CoreCompileInputs.cache
+C:\Users\Codetelligence\source\repos\mygrading\mygrading\obj\Debug\mygrading.exe
+C:\Users\Codetelligence\source\repos\mygrading\mygrading\obj\Debug\mygrading.pdb
